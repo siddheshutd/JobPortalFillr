@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  min-width: 250px;
+  padding: 10px;
+}
+#profile-section {
+  margin-bottom: 10px;
+}
+#actions button {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+#status {
+  margin-top: 10px;
+  color: green;
+} 
